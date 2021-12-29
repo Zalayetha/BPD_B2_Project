@@ -79,10 +79,8 @@ Pegawai = [pegawai1,pegawai2]
 for pegawai in Pegawai:
      if pegawai == pegawai1 :
           pegawai.tampil_gaji()
-          pegawai.tampil_info()
      
      elif pegawai == pegawai2 :
           pegawai.tampil_incentif()
-          pegawai.tampil_info()
 
          
