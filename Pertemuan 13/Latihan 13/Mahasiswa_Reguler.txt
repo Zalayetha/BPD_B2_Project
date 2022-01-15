@@ -1,0 +1,11 @@
+1    Ayu Azhari	2112502021
+2	Beni Murdani	2112502023
+3    Cici Paramida  2111502030
+4    Dede Yusuf     2111502033
+5    Emil Salim     2112502045
+6    Freddy Numberi 2113502055
+7    Giat Sumitro   2113502058
+8    Hendri Setiadi 2113502060
+9	Irfan Hakim	2112502053
+10	Jonny Iskandar	2112502055
+11	Kasman bin Narto	2111502067
